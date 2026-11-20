@@ -33,7 +33,7 @@
 
   /* Contact form: sends the enquiry to a Google Sheet through a Google Apps Script web app.
      The web app link lives in config/google-sheet.js */
-  var CONTACT_EMAIL = "adityakohli645@gmail.com";
+  var CONTACT_EMAIL = "contact@wexen.org";
   var form = document.querySelector(".inquiry-form");
 
   if (form) {
